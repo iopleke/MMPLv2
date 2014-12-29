@@ -8,7 +8,7 @@ Version 1.0.1
 
 Minecraft: Denotes a copy of the Minecraft game licensed by Mojang AB
 
-User: Anybody that interacts with the software in one of the following ways:
+User: Anybody that interacts with the software in one or more of the following ways:
    - play
    - decompile
    - recompile or compile
@@ -23,10 +23,11 @@ Dependency: Code required for the mod to work properly. This includes
 dependencies required to compile the code as well as any file or modification
 that is explicitely or implicitely required for the mod to be working.
 
+
 1. Scope
 --------
 
-The present license is granted to any user of the mod. As a prerequisite, 
+The present license is granted to any user of the mod. As a prerequisite, to play
 a user must own a legally acquired copy of Minecraft
 
 2. Liability
@@ -42,7 +43,7 @@ or misuse of this mod fall on the user.
 --------------
 
 The user is allowed to install this mod on a client or a server and to play 
-without restriction.
+without restriction if they own a legally acquired copy of Minecraft.
 
 4. Modification rights
 ----------------------
