@@ -21,7 +21,11 @@ the compilation of the original or modified sources.
 
 Dependency: Code required for the mod to work properly. This includes
 dependencies required to compile the code as well as any file or modification
-that is explicitely or implicitely required for the mod to be working.
+that is explicitly or implicitly required for the mod to be working.
+
+Client: A version of Minecraft that allows a user to play.
+
+Server: A version of Minecraft that allows multiple users to play together.
 
 
 1. Scope
