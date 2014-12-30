@@ -27,13 +27,15 @@ Client: A version of the game that allows a user to play.
 
 Server: A version of the game that allows multiple users to play together.
 
-Modpack: A collection of mods and configuration files pre-tested to work when installed together.
+Modpack: Either one or more mods with non-default configs combined to achieve the purpose of the modpack or two or more mods combined to achieve the purpose of the modpack
 
-API: Code that is either packaged with the mod or seperately that assists in extending the base mod
+API: Code that is either packaged with the mod or separately that assists in extending the base mod
 
 Addon: A mod that extends on this mod. This can be through an API that is packaged with the mod. An addon can also be written with no API by extending or instantiating the mod classes or interfaces, referring to its objects, or calling its functions. However, Addons do not re-use any code, besides the API if they use it, from the mod.
 
 Derived code: code which includes any portion of the code licensed under this licences, with modifications, additions, or subtractions
+
+Original author(s): The person or people who originally created this mod. If this mod is derived code then the original author(s) are the original author(s) of the code which this code was derived from.
 
 1. Scope
 --------
@@ -85,8 +87,9 @@ The user is allowed to redistribute this mod partially, in totality, or
 included in a modpack, providing the distribution is not limited by payment or donation amount.
 Distribution even in a modpack must be free and accesible to any valid user of the original mod.
 
-When distributing binary files, the user must provide means to obtain its
-entire set of sources or modified sources at no costs.
+To distribute this mod the distributor must provide credit to the mod author.
+
+When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original author may grant access to a distributor to use a link besides the one of that they provide.
 
 This license is separate from the license of any mod it depends on and does not invalidate any license requirement of the dependency.
 
