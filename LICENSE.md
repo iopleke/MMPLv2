@@ -93,7 +93,7 @@ To distribute this mod the distributor must provide credit to the mod author.
 
 When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original mod author may grant access to a distributor to use a link other than the one which they provide
 
-Only an original mod author can distribute this mod in a way which generates any form of revenue.
+Only an original mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
 
 This license is separate from the license of any mod it depends on and does not invalidate any license requirement of the dependency.
 
