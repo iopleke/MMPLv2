@@ -41,6 +41,11 @@ this mod. This mod alters fundamental parts of the Minecraft game, parts of
 Minecraft may not work with this mod installed. All damages caused from the use
 or misuse of this mod fall on the user.
 
+The Mod author is not responsible for dragons, trolls or pirate ninja attacks, all mythological creature slaying is the responsibility of the user. Mod author cannot be held responsible for damages from mythological creatures, weather, acts of God, or cats. (Especially cats)
+
+If you download this mod as part of a modpack you should be aware that modpacks often make non-default changes to the mod and the pack may have issues not present in the standalone mod. The author cannot be held responsible for the incompetency or sadism of a modpack creator. 
+
+
 3. Play rights
 --------------
 
