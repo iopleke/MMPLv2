@@ -71,17 +71,15 @@ include:
    - any copy of a portion of its binary source files
 
 The user is allowed to redistribute this mod partially, in totality, or 
-included in a distribution.
+included in a modpack, providing the distribution is not limited by paymen or donation ammount. 
+Distribution even in a collection (modpack) must be free and accesible to any valid user of the original mod.
 
 When distributing binary files, the user must provide means to obtain its 
 entire set of sources or modified sources at no costs.
 
 All distributions of this mod must remain licensed under the MMPL.
 
-All dependencies that this mod has on other mods or classes must be licensed
-under conditions comparable to this version of MMPL, with the exception of the
-Minecraft code and the mod loading framework (e.g. ModLoader, ModLoaderMP, Minecraft Forge/Forge Modloader or
-Bukkit).
+This license is seperate from the license of any mod it depends on and does not override any license requirments of the dependency.
 
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
