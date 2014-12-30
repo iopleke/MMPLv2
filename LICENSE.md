@@ -91,7 +91,7 @@ Distribution even in a modpack must be free and accesible to any valid user of t
 
 To distribute this mod the distributor must provide credit to the mod author.
 
-When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original author may grant access to a distributor to use a link besides the one of that they provide.
+When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original author may grant access to a distributor to use a link other than the one which they provide
 
 Only the original mod author is allowed to distribute a mod and make revenue on it. However, this may not be done through making the user pay for the mod. It may only be done through ad-revenue from download links. For example an original mod author may put the mod behind an adfly link while the author of derived code may not.
 
