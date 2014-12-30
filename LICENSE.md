@@ -19,7 +19,7 @@ Mod: The mod code designated by the present license, in source form, binary
 form, as obtained standalone, as part of a wider distribution or resulting from
 the compilation of the original or modified sources.
 
-Dependency: Code required for the mod to work properly. This includes 
+Dependency: Code required for the mod to work properly. This includes
 dependencies required to compile the code as well as any file or modification
 that is explicitely or implicitely required for the mod to be working.
 
@@ -42,13 +42,13 @@ or misuse of this mod fall on the user.
 3. Play rights
 --------------
 
-The user is allowed to install this mod on a client or a server and to play 
+The user is allowed to install this mod on a client or a server and to play
 without restriction if they own a legally acquired copy of Minecraft.
 
 4. Modification rights
 ----------------------
 
-The user has the right to decompile the source code, look at either the 
+The user has the right to decompile the source code, look at either the
 decompiled version or the original source code, and to modify it.
 
 5. Derivation rights
@@ -56,7 +56,7 @@ decompiled version or the original source code, and to modify it.
 
 The user has the rights to derive code from this mod, that is to say to
 write code that extends or instanciate the mod classes or interfaces, refer to
-its objects, or calls its functions. This code is known as "derived" code, and 
+its objects, or calls its functions. This code is known as "derived" code, and
 can be licensed under a license different from this mod.
 
 6. Distribution of original or modified copy rights
@@ -70,10 +70,10 @@ include:
    - patch to its source or binary files
    - any copy of a portion of its binary source files
 
-The user is allowed to redistribute this mod partially, in totality, or 
+The user is allowed to redistribute this mod partially, in totality, or
 included in a distribution.
 
-When distributing binary files, the user must provide means to obtain its 
+When distributing binary files, the user must provide means to obtain its
 entire set of sources or modified sources at no costs.
 
 All distributions of this mod must remain licensed under the MMPL.
@@ -86,3 +86,10 @@ Bukkit).
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
 license.
+
+7. Requirements
+---------------------------------------------------
+If any of these requirements are not met another author may remake this mod under this license
+  - The author must update the mod at least once every 6 months
+  - If the author has not updated the mod in three months they must say why and when it will be updated publicly
+  - The author infringes upon this license
