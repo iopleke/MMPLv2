@@ -21,7 +21,7 @@ the compilation of the original or modified sources.
 
 Dependency: Code required for the mod to work properly. This includes
 dependencies required to compile the code as well as any file or modification
-that is explicitly or implicitly required for the mod to be working.
+that is explicitly or implicitely required for the mod to be working.
 
 Client: A version of Minecraft that allows a user to play.
 
@@ -89,10 +89,3 @@ Bukkit).
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
 license.
-
-7. Requirements
----------------------------------------------------
-If any of these requirements are not met another author may release this mod and update it under this license. In the event that the original mod author wants to reclaim the mod they may take down the other authors version of this mod and release their version of this mod under this license; the original author may also use code the other authors created
-  - The author must update the mod at least once every 6 months
-  - If the author has not updated the mod in three months they must say why and when it will be updated publicly
-  - The author infringes upon this license
