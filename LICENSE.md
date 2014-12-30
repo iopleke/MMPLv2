@@ -23,6 +23,8 @@ Dependency: Code required for the mod to work properly. This includes
 dependencies required to compile the code as well as any file or modification
 that is explicitely or implicitely required for the mod to be working.
 
+Modpack: A collection of mods and configuration files pre-tested to work when installed together. 
+
 
 1. Scope
 --------
@@ -38,6 +40,11 @@ of this mod takes no responsibility for any damages incurred from the use of
 this mod. This mod alters fundamental parts of the Minecraft game, parts of
 Minecraft may not work with this mod installed. All damages caused from the use
 or misuse of this mod fall on the user.
+
+The Mod author is not responsible for dragons, trolls or pirate ninja attacks, all mythological creature slaying is the responsibility of the user. Mod author cannot be held responsible for damages from mythological creatures, weather, acts of God, or cats. (Especially cats)
+
+If you download this mod as part of a modpack you should be aware that modpacks often make non-default changes to the mod and the pack may have issues not present in the standalone mod. The author cannot be held responsible for the incompetency or sadism of a modpack creator. 
+
 
 3. Play rights
 --------------
@@ -71,17 +78,15 @@ include:
    - any copy of a portion of its binary source files
 
 The user is allowed to redistribute this mod partially, in totality, or 
-included in a distribution.
+included in a modpack, providing the distribution is not limited by payment or donation ammount. 
+Distribution even in a modpack must be free and accesible to any valid user of the original mod.
 
 When distributing binary files, the user must provide means to obtain its 
 entire set of sources or modified sources at no costs.
 
 All distributions of this mod must remain licensed under the MMPL.
 
-All dependencies that this mod has on other mods or classes must be licensed
-under conditions comparable to this version of MMPL, with the exception of the
-Minecraft code and the mod loading framework (e.g. ModLoader, ModLoaderMP, Minecraft Forge/Forge Modloader or
-Bukkit).
+This license is seperate from the license of any mod it depends on and does not invalidate any license requirments of the dependency.
 
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
