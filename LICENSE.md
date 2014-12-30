@@ -78,10 +78,7 @@ entire set of sources or modified sources at no costs.
 
 All distributions of this mod must remain licensed under the MMPL.
 
-All dependencies that this mod has on other mods or classes must be licensed
-under conditions comparable to this version of MMPL, with the exception of the
-Minecraft code and the mod loading framework (e.g. ModLoader, ModLoaderMP, Minecraft Forge/Forge Modloader or
-Bukkit).
+This license and the licenses of dependencies packaged with this mod applies to the packaged file of both the mod and dependency; however, the dependencies do not have to follow this license and this mod does not have to follow their licenses when it is not packaged with them.
 
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
