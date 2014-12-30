@@ -46,7 +46,7 @@ or misuse of this mod fall on the user.
 3. Play rights
 --------------
 
-The user is allowed to install the mod on a client or server and play without restriction. The user must do so on a legally acquired version of Minecraft only
+The user is allowed to install the mod on a client or server and play without restriction.
 
 4. Modification rights
 ----------------------
