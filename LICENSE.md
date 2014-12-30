@@ -23,6 +23,8 @@ Dependency: Code required for the mod to work properly. This includes
 dependencies required to compile the code as well as any file or modification
 that is explicitly or implicitely required for the mod to be working.
 
+Modpack: A collection of mods and configuration files pre-tested to work when installed together.
+
 Client: A version of Minecraft that allows a user to play.
 
 Server: A version of Minecraft that allows multiple users to play together.
