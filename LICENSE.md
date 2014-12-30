@@ -35,7 +35,9 @@ Addon: A mod that extends on this mod. This can be through an API that is packag
 
 Derived code: code which includes any portion of the code licensed under this licences, with modifications, additions, or subtractions
 
-Original author(s): The person or people who originally created this mod. If this mod is derived code then the original author(s) are the original author(s) of the code which this code was derived from.
+Original author(s): The person or people who originally created this mod. If this mod is derived code then the original author(s) are the original author(s) of the code which this code was derived from. The original author(s) can also add more authors to this list of original author(s).
+
+Distributor: Anyone who distributes the compiled mod besides the author of the mod.
 
 1. Scope
 --------
@@ -90,6 +92,8 @@ Distribution even in a modpack must be free and accesible to any valid user of t
 To distribute this mod the distributor must provide credit to the mod author.
 
 When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original author may grant access to a distributor to use a link besides the one of that they provide.
+
+Only the original mod author is allowed to distribute a mod and make revenue on it. However, this may not be done through making the user pay for the mod. It may only be done through ad-revenue from download links. For example an original mod author may put the mod behind an adfly link while the author of derived code may not.
 
 This license is separate from the license of any mod it depends on and does not invalidate any license requirement of the dependency.
 
