@@ -31,7 +31,7 @@ Modpack: A collection of mods and configuration files pre-tested to work when in
 
 API: Code that is either packaged with the mod or seperately that assists in extending the base mod
 
-Addon: A mod that extends on this mod. This can be through an API that is packaged with the mod. An addon can also be writen with no API by extending or instantiating the mod classes or interfaces, refering to its objects, or calling its functions. However, Addons do not re-use any code, besides the API if they use it, from the mod.
+Addon: A mod that extends on this mod. This can be through an API that is packaged with the mod. An addon can also be written with no API by extending or instantiating the mod classes or interfaces, refering to its objects, or calling its functions. However, Addons do not re-use any code, besides the API if they use it, from the mod.
 
 Derived code: code which includes any portion of the code licensed under this licences, with modifications, additions, or subtractions
 
@@ -74,7 +74,7 @@ The user must license derived code under this license. The user may license addo
 ---------------------------------------------------
 
 Is subject to distribution rights this entire mod in its various forms. This
-include:
+includes:
    - original binary or source forms of this mod files
    - modified versions of these binaries or source files, as well as binaries
      resulting from source modifications
