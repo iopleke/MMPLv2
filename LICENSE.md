@@ -89,7 +89,7 @@ license.
 
 7. Requirements
 ---------------------------------------------------
-If any of these requirements are not met another author may remake this mod under this license
+If any of these requirements are not met another author may release this mod and update it under this license
   - The author must update the mod at least once every 6 months
   - If the author has not updated the mod in three months they must say why and when it will be updated publicly
   - The author infringes upon this license
