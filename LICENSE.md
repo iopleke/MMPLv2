@@ -88,7 +88,7 @@ license.
 
 7. Requirements
 ---------------------------------------------------
-If any of these requirements are not met another author may release this mod and update it under this license
+If any of these requirements are not met another author may release this mod and update it under this license. In the event that the original mod author wants to reclaim the mod they may take down the other authors version of this mod and release their version of this mod under this license; the original author may also use code the other authors created
   - The author must update the mod at least once every 6 months
   - If the author has not updated the mod in three months they must say why and when it will be updated publicly
   - The author infringes upon this license
