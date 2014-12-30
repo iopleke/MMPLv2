@@ -33,8 +33,7 @@ Modpack: A collection of mods and configuration files pre-tested to work when in
 1. Scope
 --------
 
-The present license is granted to any user of the mod. As a prerequisite, to play
-a user must own a legally acquired copy of Minecraft
+The present license is granted to any user of the mod. As a prerequisite, this license complies with the Minecraft license at the point in time that this version of the mod is released
 
 2. Liability
 ------------
@@ -81,7 +80,7 @@ include:
    - any copy of a portion of its binary source files
 
 The user is allowed to redistribute this mod partially, in totality, or
-included in a modpack, providing the distribution is not limited by payment or donation amount. 
+included in a modpack, providing the distribution is not limited by payment or donation amount.
 Distribution even in a modpack must be free and accesible to any valid user of the original mod.
 
 When distributing binary files, the user must provide means to obtain its
@@ -94,7 +93,3 @@ This license is seperate from the license of any mod it depends on and does not 
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
 license.
-
-7. Miscellaneous
----------------------------------------------------
-1. This license requires compliance with the Minecraft license at the point in time that this version of the mod is released
