@@ -29,7 +29,11 @@ Server: A version of Minecraft that allows multiple users to play together.
 
 Modpack: A collection of mods and configuration files pre-tested to work when installed together.
 
-Addon: A mod that extends on this mod. This can either be through an API that is packaged with the mod. An addon can also be writen with no API by extending or instantiating the mod classes or interfaces, refering to its objects, or calling its functions. However, Addons do not take any code, besides the API if they use it, from the mod
+API: Code that is either packaged with the mod or seperately that assists in extending the base mod
+
+Addon: A mod that extends on this mod. This can be through an API that is packaged with the mod. An addon can also be writen with no API by extending or instantiating the mod classes or interfaces, refering to its objects, or calling its functions. However, Addons do not re-use any code, besides the API if they use it, from the mod.
+
+Derived code: code which includes any portion of the code licensed under this licences, with modifications, additions, or subtractions
 
 1. Scope
 --------
@@ -64,7 +68,7 @@ decompiled version or the original source code, and to modify it.
 5. Derivation rights
 --------------------
 
-The user has the right to write addons for this mod. Addons may be licensed under another license. The user also has the right to modify this code. This code is known as "derived" code, and must be licensed under this license.
+The user must license derived code under this license. The user may license addons under a different license, as long as no code from the parent mod is included. However, using an API without other code doesn't require compliance with this license. For example, if an addon extended the mod using an API and if that API is packaged with the mod then that API is code from the parent mod. However, since it is an API it may be extended and the addon may be under a different license
 
 6. Distribution of original or modified copy rights
 ---------------------------------------------------
