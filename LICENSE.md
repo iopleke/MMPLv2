@@ -66,7 +66,7 @@ decompiled version or the original source code, and to modify it.
 The user has the rights to derive code from this mod, that is to say to
 write code that extends or instanciate the mod classes or interfaces, refer to
 its objects, or calls its functions. This code is known as "derived" code, and
-can be licensed under a license different from this mod.
+must be licensed this license.
 
 6. Distribution of original or modified copy rights
 ---------------------------------------------------
@@ -85,8 +85,6 @@ Distribution even in a modpack must be free and accesible to any valid user of t
 
 When distributing binary files, the user must provide means to obtain its
 entire set of sources or modified sources at no costs.
-
-All distributions of this mod must remain licensed under the MMPL.
 
 This license is seperate from the license of any mod it depends on and does not invalidate any license requirments of the dependency.
 
