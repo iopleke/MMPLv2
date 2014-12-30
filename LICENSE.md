@@ -29,6 +29,7 @@ Server: A version of Minecraft that allows multiple users to play together.
 
 Modpack: A collection of mods and configuration files pre-tested to work when installed together.
 
+Addon: A mod that extends on this mod. This can either be through an API that is packaged with the mod. An addon can also be writen with no API by extending or instantiating the mod classes or interfaces, refering to its objects, or calling its functions. However, Addons do not take any code, besides the API if they use it, from the mod
 
 1. Scope
 --------
@@ -63,10 +64,7 @@ decompiled version or the original source code, and to modify it.
 5. Derivation rights
 --------------------
 
-The user has the rights to derive code from this mod, that is to say to
-write code that extends or instantiates the mod classes or interfaces, refer to
-its objects, or calls its functions. This code is known as "derived" code, and
-must be licensed this license.
+The user has the right to write addons for this mod. Addons may be licensed under another license. The user also has the right to modify this code. This code is known as "derived" code, and must be licensed under this license.
 
 6. Distribution of original or modified copy rights
 ---------------------------------------------------
@@ -89,5 +87,5 @@ entire set of sources or modified sources at no costs.
 This license is separate from the license of any mod it depends on and does not invalidate any license requirement of the dependency.
 
 Modified version of binaries and sources, as well as files containing sections
-copied from this mod, should be distributed under the terms of the present
+copied from this mod, must be under the terms of the present
 license.
