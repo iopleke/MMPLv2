@@ -89,3 +89,7 @@ Bukkit).
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
 license.
+
+7. Miscellaneous
+---------------------------------------------------
+1. This license requires compliance with the Minecraft license at the point in time that this version of the mod is released
