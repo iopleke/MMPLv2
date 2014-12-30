@@ -86,7 +86,7 @@ Distribution even in a modpack must be free and accesible to any valid user of t
 When distributing binary files, the user must provide means to obtain its
 entire set of sources or modified sources at no costs.
 
-This license is seperate from the license of any mod it depends on and does not invalidate any license requirments of the dependency.
+This license is separate from the license of any mod it depends on and does not invalidate any license requirements of the dependency.
 
 Modified version of binaries and sources, as well as files containing sections
 copied from this mod, should be distributed under the terms of the present
