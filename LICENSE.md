@@ -27,7 +27,7 @@ that is explicitly or implicitly required for the mod to be working.
 
 **Server**: A version of the game that allows multiple users to play together.
 
-**Modpack**: Either one or more mods with non-default configs combined to achieve the purpose of the modpack or two or more mods combined to achieve the purpose of the modpack
+**Modpack**: Either one or more mods with non-default configs combined to achieve the purpose of the modpack or two or more mods combined to achieve the purpose of the modpack. This collection must also be pre-tested to work when installed together.
 
 **API**: Code that is either packaged with the mod or separately that assists in extending the base mod
 
