@@ -27,7 +27,7 @@ that is explicitly or implicitly required for the mod to be working.
 
 **Server**: A version of the game that allows multiple users to play together.
 
-**Modpack**: Either one or more mods with non-default configs combined to achieve the purpose of the modpack or two or more mods combined to achieve the purpose of the modpack. This collection must also be pre-tested to work when installed together.
+**Modpack**: A collection of mods and configuration files pre-tested to work when installed together. This may also be just one mod and configuration file pre-tested to work when installed.
 
 **API**: Code that is either packaged with the mod or separately that assists in extending the base mod
 
@@ -90,7 +90,9 @@ Distribution even in a modpack must be free and accesible to any valid user of t
 
 To distribute this mod the distributor must provide credit to the mod author.
 
-When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original mod author may grant access to a distributor to use a link other than the one which they provide
+When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original mod author may grant access to a distributor to use a link other than the one which they provide.
+
+The original mod author may revoke hosting permission from any distributor. Also, modpacks may only be hosted sites/launchers given permission by the original mod author
 
 Only an original mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
 
