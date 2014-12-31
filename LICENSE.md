@@ -82,7 +82,7 @@ The user is granted the right to distribute derivatives with the following restr
    - The derivative must be distributed under the same license as this mod.
    - The entire source code of the derivative must made freely available without charge or fee.
 
-8. Right to distribute addons
+7. Right to distribute addons
 -----------------------------
 
 Ths user is granted the right to distribute addons to this mod, which may be distributed under a different license, as long as the addon is not a derivative or it includes only the API of this mod. For example, if an addon extended this mod using the mod's API, but did not include other derived code, then it can be distributed under another license.
