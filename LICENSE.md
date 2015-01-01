@@ -68,7 +68,7 @@ The user has the right to decompile the binaries and examine the resulting sourc
 
 Unmodified copies of this mod are binary and/or source files that are identical to those provided by the mod author. A distribution that contains modifications only to configuration files and not binary or source files (as might be necessary for inclusion in a modpack) shall be considered an unmodified copy. The user is granted the right to distribute unmodified copies of this mod with the following restrictions:
    - Distribution of the unmodified copy must not be monetized.
-   - The distributor must attribute the author of the mod near any download buttons or other calls to aquire the mod by clearly displaying the name of the author and/or the URL of the author's website.
+   - The distributor must attribute the author of the mod near any download buttons or other calls to aquire the mod by clearly displaying the name of the author and the URL of the author's website.
 
 6. Right to distribute derivatives
 ----------------------------------
