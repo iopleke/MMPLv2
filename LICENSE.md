@@ -56,48 +56,51 @@ The Mod author is not responsible for dragons, trolls or pirate ninja attacks, a
 
 If you download this mod as part of a modpack you should be aware that modpacks often make non-default changes to the mod and the pack may have issues not present in the standalone mod. The author cannot be held responsible for the incompetency or sadism of a modpack creator.
 
-
-3. Play rights
---------------
+3. Right to play
+----------------
 
 The user is allowed to install the mod on a client or server and play without restriction.
 
-4. Modification rights
-----------------------
+4. Right to decompile
+---------------------
 
-The user has the right to decompile the source code, look at either the
-decompiled version or the original source code, and to modify it.
+The user has the right to decompile the binaries and examine the resulting source code.
 
-5. Derivation rights
---------------------
+5. Right to distribute unmodified copies
+----------------------------------------
 
-The user must license derived code under this license. The user may license addons under a different license, as long as no code from the parent mod is included. However, using an API without other code doesn't require compliance with this license. For example, if an addon extended the mod using an API and if that API is packaged with the mod then that API is code from the parent mod. However, since it is an API it may be extended and the addon may be under a different license
+Unmodified copies of this mod are binary and/or source files that are identical to those provided by the mod author. A distribution that contains modifications only to configuration files and not binary or source files (as might be necessary for inclusion in a modpack) shall be considered an unmodified copy. The user is granted the right to distribute unmodified copies of this mod with the following restrictions:
+   - Distribution of the unmodified copy must not be monetized.
+   - The distributor must attribute the author of the mod near any download buttons or other calls to acquire the mod by clearly displaying the name of the author and/or the URL of the author's website.
+   - Unmodified copies may only be distributed through the link the mod author provides. However, the original mod author may grant access to a distributor to use a link other than the one which they provide.
+   - Only the mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
+   - The original mod author may revoke hosting permission from any distributor.
 
-6. Distribution of original or modified copy rights
----------------------------------------------------
+6. Right to distribute derivatives
+----------------------------------
 
-Is subject to distribution rights this entire mod in its various forms. This
-includes:
-   - original binary or source forms of this mod's files
-   - modified versions of these binaries or source files, as well as binaries
-     resulting from source modifications
-   - patch to its source or binary files
-   - any copy of a portion of its binary source files
+Derivatives of this mod include, but are not limited to:
+   - modified versions of the mod source code or binaries (including binaries compiled from the modified source code)
+   - any portion of the binary or source files
 
-The user is allowed to redistribute this mod partially, in totality, or
-included in a modpack, providing the distribution is not limited by payment or donation amount.
-Distribution even in a modpack must be free and accesible to any valid user of the original mod.
+The user is granted the right to distribute derivatives with the following restrictions:
+   - The derivative must carry prominent notices that you modified the mod.
+   - The derivative must be distributed under the same license as this mod.
+   - The entire source code of the derivative must made freely available without charge or fee.
+   - The derivative may not be used to generate revenue. However, the original mod author may allow the derivative be used to generate revenue
 
-To distribute this mod the distributor must provide credit to the mod author.
+7. Right to distribute addons
+-----------------------------
 
-When distributing outside of a modpack the distributor must use the link provided by the author of the mod. However, this is not required when distributing mods in a modpack. Also, the original mod author may grant access to a distributor to use a link other than the one which they provide.
+The user is granted the right to distribute addons to this mod, which may be distributed under a different license, as long as the addon is not a derivative or it includes only the API of this mod. For example, if an addon extended this mod using the mod's API, but did not include other derived code, then it can be distributed under another license.
 
-The original mod author may revoke hosting permission from any distributor. Also, modpacks may only be hosted on sites/launchers given permission by the original mod author
+8. Right to distribute in a modpack
+-----------------------------------
 
-Only an original mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
+Using the link the author provides is not required when distributing mods in a modpack. However, modpacks may only be hosted on sites/launchers given permission by the original mod author. Modpacks may not be used to generate revenue.
+
+9. Applies to all Distribution
+------------------------------
+The original mod author may revoke hosting permission from any distributor.
 
 This license is separate from the license of any mod it depends on and does not invalidate any license requirement of the dependency.
-
-Modified version of binaries and sources, as well as files containing sections
-copied from this mod, must be under the terms of the present
-license.
