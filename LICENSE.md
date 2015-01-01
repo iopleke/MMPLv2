@@ -9,11 +9,11 @@ Version 1.0.1
 **Original** Game or Game: Denotes a copy of the original game licensed by the company that owns the game
 
 **User**: Anybody that interacts with the software in one or more of the following ways:
-   - play
-   - decompile
-   - recompile or compile
-   - modify
-   - distribute
+- play
+- decompile
+- recompile or compile
+- modify
+- distribute
 
 **Mod**: The mod code designated by the present license, in source form, binary
 form, as obtained standalone, as part of a wider distribution or resulting from
@@ -70,24 +70,24 @@ The user has the right to decompile the binaries and examine the resulting sourc
 ----------------------------------------
 
 Unmodified copies of this mod are binary and/or source files that are identical to those provided by the mod author. A distribution that contains modifications only to configuration files and not binary or source files (as might be necessary for inclusion in a modpack) shall be considered an unmodified copy. The user is granted the right to distribute unmodified copies of this mod with the following restrictions:
-   - Distribution of the unmodified copy must not be monetized.
-   - The distributor must attribute the author of the mod near any download buttons or other calls to acquire the mod by clearly displaying the name of the author and/or the URL of the author's website.
-   - Unmodified copies may only be distributed through the link the mod author provides. However, the original mod author may grant access to a distributor to use a link other than the one which they provide.
-   - Only the mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
-   - The original mod author may revoke hosting permission from any distributor.
+- Distribution of the unmodified copy must not be monetized.
+- The distributor must attribute the author of the mod near any download buttons or other calls to acquire the mod by clearly displaying the name of the author and/or the URL of the author's website.
+- Unmodified copies may only be distributed through the link the mod author provides. However, the original mod author may grant access to a distributor to use a link other than the one which they provide.
+- Only the mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
+- The original mod author may revoke hosting permission from any distributor.
 
 6. Right to distribute derivatives
 ----------------------------------
 
 Derivatives of this mod include, but are not limited to:
-   - modified versions of the mod source code or binaries (including binaries compiled from the modified source code)
-   - any portion of the binary or source files
+- modified versions of the mod source code or binaries (including binaries compiled from the modified source code)
+- any portion of the binary or source files
 
 The user is granted the right to distribute derivatives with the following restrictions:
-   - The derivative must carry prominent notices that you modified the mod.
-   - The derivative must be distributed under the same license as this mod.
-   - The entire source code of the derivative must made freely available without charge or fee.
-   - The derivative may not be used to generate revenue. However, the original mod author may allow the derivative be used to generate revenue
+- The derivative must carry prominent notices that you modified the mod.
+- The derivative must be distributed under the same license as this mod.
+- The entire source code of the derivative must made freely available without charge or fee.
+- The derivative may not be used to generate revenue. However, the original mod author may allow the derivative be used to generate revenue
 
 7. Right to distribute addons
 -----------------------------
