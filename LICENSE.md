@@ -70,7 +70,7 @@ The Author may revoke distribution rights from any Distributor.
 6. Right to derive
 ----------------------------------
 The User may create derivative works based on the Mod.
-A Derivative contains changes which a reasonably informed person would consider significant.
+A Derivative must contain changes which a reasonably informed person would consider significant.
 
 The Derivative must provide appropriate credit to the Author.
 The Derivative must comply with the Mod license.
