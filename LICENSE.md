@@ -1,43 +1,31 @@
-Mod Public License
+Minecraft Mod Public License
 ============================
 
-Version 2.0.1
+Version 2.0.2
 
 0. Definitions
 --------------
+**Game**: Minecraft, the Minecraft server, and all associated software or derivatives, as defined by Mojang.
 
-**Original** Game or Game: Denotes a copy of the original game licensed by the company that owns the game
+**Mod**: Software which modifies the Game, in any form (source, compiled binary, etc).
 
-**User**: Anybody that interacts with the software in one or more of the following ways:
-- play
-- decompile
-- recompile or compile
-- modify
-- distribute
+**User**: Anyone who that interacts with Minecraft or the Mod in any way.
 
-**Mod**: The mod code designated by the present license, in source form, binary
-form, as obtained standalone, as part of a wider distribution or resulting from
-the compilation of the original or modified sources.
+**Dependency**: Software required for the mod to execute, compile, or otherwise "work" correctly.
 
-**Dependency**: Code required for the mod to work properly. This includes
-dependencies required to compile the code as well as any file or modification
-that is explicitly or implicitly required for the mod to be working.
+**API**: Software intermediary required for interaction with the Mod.
 
-**Client**: A version of the game that allows a user to play.
+**Derived Code**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
-**Server**: A version of the game that allows multiple users to play together.
+**Addon**: Software that extends on this mod, but is not a derivative.
 
-**Modpack**: A collection of mods and configuration files pre-tested to work when installed together. This may also be just one mod and configuration file pre-tested to work when installed.
+**Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
-**API**: Code that is either packaged with the mod or separately that assists in extending the base mod
+**Author(s)**: Original Programmer or programmers responsible for writing the Mod.
 
-**Addon**: A mod that extends on this mod. This can be through an API that is packaged with the mod. An addon can also be written with no API by extending or instantiating the mod classes or interfaces, referring to its objects, or calling its functions. However, addons do not re-use any code, besides the API if they use it, from the mod.
+**Contributor**: Programmer or programmers who contribute code to the Mod, but are not the Author.
 
-**Derived Code**: code which includes any portion of the code licensed under this licences, with modifications, additions, or subtractions
-
-**Original Mod Author(s)**: The person or people who originally created this mod. If this mod is derived code then the original mod author(s) are the original mod author(s) of the code which this code was derived from. The original mod author(s) can also add more authors to this list of original mod author(s). Hereinafter, *author* will refer to author or authors.
-
-**Distributor**: Anyone who distributes the compiled mod besides the author of the mod.
+**Distributor**: Anyone who distributes the compiled mod.
 
 1. Scope
 --------
