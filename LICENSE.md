@@ -13,7 +13,7 @@ Version 2.0.2
 
 **Dependency**: Software required for the mod to execute, compile, or otherwise "work" correctly.
 
-**API**: Software intermediary required for interaction with the Mod.
+**API**: Software intermediary for interaction with the Mod.
 
 **Derived Code**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
@@ -36,21 +36,24 @@ The present license is granted to any User of the Mod.
 
 As a prerequisite, the User is expected to comply with the Mojang EULA as it exists at the time the Mod is distributed.
 
+This license is separate from the license of any Mod it depends on and does not invalidate any license requirement of the dependency.
+
 2. Liability
 ------------
 
-This Mod is provided 'as is' with no warranties, implied or otherwise.  
-The Author is not responsible for dragon, troll, pirate, or ninja attacks.  
-Slaying any and all mythological creatures is the sole responsibility of the User.  
-The Author takes no responsibility for any damages incurred from the use or misues of this Mod.  
-This Mod may alter fundamental parts of the Game. 
-
-The User is liable for all damages resulting from the use or misuse of the Mod.
+The User accepts the following liability:
+ - This Mod is provided 'as is' with no warranties, implied or otherwise.
+ - The Author is not responsible for dragon, troll, pirate, or ninja attacks.
+ - Slaying any and all mythological creatures is the sole responsibility of the User.
+ - The Author takes no responsibility for any damages incurred from the use or misues of this Mod.
+ - This Mod may alter fundamental parts of the Game.
+ - The User is liable for all damages resulting from the use or misuse of the Mod.
 
 3. Right to play
 ----------------
 
 The User is allowed to install the Mod and play without restriction.
+The User may not limit access to the Mod in any way, except as provided by the Game.
 
 4. Right to examine
 ---------------------
@@ -77,8 +80,9 @@ The Derivative must comply with the Mod license.
 
 7. Right to distribute addons
 -----------------------------
-
-The user is granted the right to distribute addons to this mod, which may be distributed under a different license, as long as the addon is not a derivative or it includes only the API of this mod. For example, if an addon extended this mod using the mod's API, but did not include other derived code, then it can be distributed under another license.
+The User may develop non-Derivative Addons.
+An Addon may include the Mod API without being considered a Derivative.
+The Addon may be distributed under a different license.
 
 8. Modpack rights
 -----------------------------------
@@ -89,9 +93,3 @@ The Author may not be held responsible for the incompetency or sadism of the Mod
 Modpacks may not be used to generate revenue unless specifically granted this right by the Author.
 
 Modpacks may be made and distributed by the Modpack Creator through any distribution channel they choose.
-
-9. Applies to all Distribution
-------------------------------
-The original mod author may revoke hosting permission from any distributor.
-
-This license is separate from the license of any mod it depends on and does not invalidate any license requirement of the dependency.
