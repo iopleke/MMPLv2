@@ -52,49 +52,49 @@ The User accepts the following liability:
 3. Right to play
 --------
 
-The User is allowed to install the Mod and play without restriction.
-The User may not limit access to the Mod in any way, except as provided by the Game.
+The User is allowed to install the Mod and play without restriction.  
+The User may not limit access to the Mod in any way, except as provided by the Game.  
 
 4. Right to examine
 --------
 
-The User may decompile compiled binaries and examine the resulting source code.
+The User may decompile compiled binaries and examine the resulting source code.  
 The User may examine the source code as it exists in public repositories.
 
 5. Right to distribute
 --------
 
-The Author reserves the right to distribute the Mod.
-The Author may designate a person or organization as a Distributor.
-A Distributor is granted the right to distribute the Mod.
-The User may not distribute the Mod without being granted distribution rights from the Author.
-The Author may revoke distribution rights from any Distributor.
+The Author reserves the right to distribute the Mod.  
+The Author may designate a person or organization as a Distributor.  
+A Distributor is granted the right to distribute the Mod.  
+The User may not distribute the Mod without being granted distribution rights from the Author.  
+The Author may revoke distribution rights from any Distributor.  
 
 6. Right to contribute
 --------
-The User may submit contributions to the Author for inclusion in the Mod.
-The User grants the Author all rights to any contribution.
-The User renounces all rights to their contribution except as specified under this license.
+The User may submit contributions to the Author for inclusion in the Mod.  
+The User grants the Author all rights to any contribution.  
+The User renounces all rights to their contribution except as specified under this license.  
 
 7. Right to derive
 --------
-The User may create derivative works based on the Mod.
-A Derivative must contain changes which a reasonably informed person would consider significant.
+The User may create derivative works based on the Mod.  
+A Derivative must contain changes which a reasonably informed person would consider significant.  
 
-The Derivative must provide appropriate credit to the Author.
-The Derivative must comply with the Mod license.
+The Derivative must provide appropriate credit to the Author.  
+The Derivative must comply with the Mod license.  
 
 8. Right to distribute addons
 --------
-The User may develop non-Derivative Addons.
-An Addon may include the Mod API without being considered a Derivative.
-The Addon may be distributed under a different license.
+The User may develop non-Derivative Addons.  
+An Addon may include the Mod API without being considered a Derivative.  
+The Addon may be distributed under a different license.  
 
 9. Modpack rights
 --------
 
-The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work. 
-The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.
+The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work.  
+The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.  
 
 Modpacks may not be used to generate revenue unless specifically granted this right by the Author.
 
