@@ -30,7 +30,9 @@ Version 2.0.2
 1. Scope
 --------
 
-The present license is granted to any user of the mod. As a prerequisite, this license complies with all dependencies licenses at the point in time that this version of the mod is released
+The present license is granted to any User of the Mod.
+
+As a prerequisite, the User is expected to comply with the Mojang EULA as it exists at the time the Mod is distributed.
 
 2. Liability
 ------------
