@@ -40,8 +40,6 @@ As a prerequisite, the User is expected to comply with the Mojang EULA as it exi
 ------------
 
 This Mod is provided 'as is' with no warranties, implied or otherwise.  
-If played as part of a Modpack, the User acknowledges that a Modpack may make changes to the mod, and the Mod may not work. 
-Additionally, the Author may not be held responsible for the incompetency or sadism of the Modpack Creator.
 The Author is not responsible for dragon, troll, pirate, or ninja attacks.  
 Slaying any and all mythological creatures is the sole responsibility of the User.  
 The Author takes no responsibility for any damages incurred from the use or misues of this Mod.  
@@ -87,10 +85,15 @@ The user is granted the right to distribute derivatives with the following restr
 
 The user is granted the right to distribute addons to this mod, which may be distributed under a different license, as long as the addon is not a derivative or it includes only the API of this mod. For example, if an addon extended this mod using the mod's API, but did not include other derived code, then it can be distributed under another license.
 
-8. Right to distribute in a modpack
+8. Modpack rights
 -----------------------------------
 
-Using the link the author provides is not required when distributing mods in a modpack. However, modpacks may only be hosted on sites/launchers given permission by the original mod author. Modpacks may not be used to generate revenue.
+If played as part of a Modpack, the User acknowledges that a Modpack will make changes to the mod, and the Mod or Game may not work. 
+The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.
+
+Modpacks may not be used to generate revenue unless specifically granted this right by the Author.
+
+Modpacks may be made and distributed by the Modpack Creator through any distribution channel they choose.
 
 9. Applies to all Distribution
 ------------------------------
