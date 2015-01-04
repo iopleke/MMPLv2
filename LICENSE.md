@@ -50,35 +50,30 @@ The User is liable for all damages resulting from the use or misuse of the Mod.
 3. Right to play
 ----------------
 
-The user is allowed to install the mod on a client or server and play without restriction.
+The User is allowed to install the Mod and play without restriction.
 
-4. Right to decompile
+4. Right to examine
 ---------------------
 
-The user has the right to decompile the binaries and examine the resulting source code.
+The User may decompile compiled binaries and examine the resulting source code.
+The User may examine the source code as it exists in public repositories.
 
-5. Right to distribute unmodified copies
+5. Right to distribute
 ----------------------------------------
 
-Unmodified copies of this mod are binary and/or source files that are identical to those provided by the mod author. A distribution that contains modifications only to configuration files and not binary or source files (as might be necessary for inclusion in a modpack) shall be considered an unmodified copy. The user is granted the right to distribute unmodified copies of this mod with the following restrictions:
-- Distribution of the unmodified copy must not be monetized.
-- The distributor must attribute the author of the mod near any download buttons or other calls to acquire the mod by clearly displaying the name of the author and/or the URL of the author's website.
-- Unmodified copies may only be distributed through the link the mod author provides. However, the original mod author may grant access to a distributor to use a link other than the one which they provide.
-- Only the mod author can distribute this mod in a way which generates any form of revenue. However, an original mod author may grant permission to a distributor to distribute this mod in a way which generates a form of revenue
-- The original mod author may revoke hosting permission from any distributor.
+The Author reserves the right to distribute the Mod.
+The Author may designate a person or organization as a Distributor.
+A Distributor is granted the right to distribute the Mod.
+The User may not distribute the Mod without being granted distribution rights from the Author.
+The Author may revoke distribution rights from any Distributor.
 
-6. Right to distribute derivatives
+6. Right to derive
 ----------------------------------
+The User may create derivative works based on the Mod.
+A Derivative contains changes which a reasonably informed person would consider significant.
 
-Derivatives of this mod include, but are not limited to:
-- modified versions of the mod source code or binaries (including binaries compiled from the modified source code)
-- any portion of the binary or source files
-
-The user is granted the right to distribute derivatives with the following restrictions:
-- The derivative must carry prominent notices that you modified the mod.
-- The derivative must be distributed under the same license as this mod.
-- The entire source code of the derivative must made freely available without charge or fee.
-- The derivative may not be used to generate revenue. However, the original mod author may allow the derivative be used to generate revenue
+The Derivative must provide appropriate credit to the Author.
+The Derivative must comply with the Mod license.
 
 7. Right to distribute addons
 -----------------------------
