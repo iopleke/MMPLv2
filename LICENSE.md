@@ -21,6 +21,8 @@ Version 2.0.2
 
 **Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
+**Modpack Creator**: An individual who creates modpacks.
+
 **Author(s)**: Original Programmer or programmers responsible for writing the Mod.
 
 **Contributor**: Programmer or programmers who contribute code to the Mod, but are not the Author.
@@ -37,14 +39,15 @@ As a prerequisite, the User is expected to comply with the Mojang EULA as it exi
 2. Liability
 ------------
 
-This mod is provided 'as is' with no warranties, implied or otherwise. The owner
-of this mod takes no responsibility for any damages incurred from the use of
-this mod. This mod alters fundamental parts of the original game, parts of
-the game may not work with this mod installed. The user is liable for all damages resulting from the use or misuse of this mod.
+This Mod is provided 'as is' with no warranties, implied or otherwise.  
+If played as part of a Modpack, the User acknowledges that a Modpack may make changes to the mod, and the Mod may not work. 
+Additionally, the Author may not be held responsible for the incompetency or sadism of the Modpack Creator.
+The Author is not responsible for dragon, troll, pirate, or ninja attacks.  
+Slaying any and all mythological creatures is the sole responsibility of the User.  
+The Author takes no responsibility for any damages incurred from the use or misues of this Mod.  
+This Mod may alter fundamental parts of the Game. 
 
-The Mod author is not responsible for dragons, trolls or pirate ninja attacks, all mythological creature slaying is the responsibility of the user. Mod author cannot be held responsible for damages from mythological creatures, weather, acts of God, or cats. (Especially cats)
-
-If you download this mod as part of a modpack you should be aware that modpacks often make non-default changes to the mod and the pack may have issues not present in the standalone mod. The author cannot be held responsible for the incompetency or sadism of a modpack creator.
+The User is liable for all damages resulting from the use or misuse of the Mod.
 
 3. Right to play
 ----------------
