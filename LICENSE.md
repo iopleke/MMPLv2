@@ -30,7 +30,7 @@ Version 2.0.2
 
 **Codebase**: The Mod source code, complete with source history and Contributor records.
 
-**Distributor**: Anyone who distributes the compiled mod.
+**Distributor**: Anyone who distributes this Mod.
 
 1. Scope
 --------
