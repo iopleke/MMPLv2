@@ -8,7 +8,7 @@ Version 2.0.2
 
 **Game**: Minecraft, the Minecraft server, and all associated software or derivatives, as defined by Mojang.
 
-**Mod**: Software which modifies the Game, in any form (source, compiled binary, etc).
+**The Mod**: Any copyrightable work licensed under this license, in any form (source, compiled binary, etc).
 
 **User**: Anyone who that interacts with Minecraft or the Mod in any way.
 
@@ -67,7 +67,7 @@ The User may examine this Mod's source code.
 The Author reserves the right to distribute the Mod.  
 The Author may designate a person or organization as a Distributor.  
 A Distributor is granted the right to distribute the Mod.  
-When distributing binaries, a Distributor must provide means to obtain the Mod's source code at no charge, to any User who recieves a copy of this Mod from the Distributor.  
+When distributing binaries, a Distributor must provide means to obtain the Mod's source code at no charge, for any User who recieves a copy of this Mod from the Distributor.  
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
