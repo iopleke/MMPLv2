@@ -70,6 +70,7 @@ The User may examine the source code as it exists in public repositories.
 The Author reserves the right to distribute the Mod.  
 The Author may designate a person or organization as a Distributor.  
 A Distributor is granted the right to distribute the Mod.  
+When distributing binaries, a Distributor must provide means to obtain the Mod's source code to any User who recieves a copy of this Mod from the Distributor.
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
