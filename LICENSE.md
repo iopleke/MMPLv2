@@ -8,7 +8,7 @@ Version 2.0.2
 
 **Game**: Minecraft, the Minecraft server, and all associated software or derivatives, as defined by Mojang.
 
-**Mod**: Software which modifies the Game, in any form (source, compiled binary, etc).
+**The Mod**: Any copyrightable work licensed under this license, in any form (source, compiled binary, etc).
 
 **User**: Anyone who that interacts with Minecraft or the Mod in any way.
 
@@ -16,7 +16,7 @@ Version 2.0.2
 
 **API**: Software intermediary for interaction with the Mod.
 
-**Derived Code**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
+**Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
 **Addon**: Software that extends on this mod, but is not a derivative.
 
@@ -30,7 +30,7 @@ Version 2.0.2
 
 **Codebase**: The Mod source code, complete with source history and Contributor records.
 
-**Distributor**: Anyone who distributes the compiled mod.
+**Distributor**: Anyone who distributes this Mod.
 
 1. Scope
 --------
@@ -52,39 +52,36 @@ The User accepts the following liability:
  - This Mod may alter fundamental parts of the Game.
  - The User is liable for all damages resulting from the use or misuse of the Mod.
 
-3. Right to use
+3. Right to use and examine
 --------
 
 The User is allowed to install the Mod and play without restriction.  
 The User may not limit access to the Mod in any way, except as provided by the Game.  
 
-4. Right to examine
---------
+The User may decompile compiled binaries.  
+The User may examine this Mod's source code.
 
-The User may decompile compiled binaries and examine the resulting source code.  
-The User may examine the source code as it exists in public repositories.
-
-5. Right to distribute
+4. Right to distribute
 --------
 
 The Author reserves the right to distribute the Mod.  
 The Author may designate a person or organization as a Distributor.  
 A Distributor is granted the right to distribute the Mod.  
+When distributing binaries, a Distributor must provide means to obtain the Mod's source code at no charge, for any User who recieves a copy of this Mod from the Distributor.  
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
-6. Right to contribute
+5. Right to contribute
 --------
 
 The User may "fork" the Codebase.  
 The User may compile the Codebase.  
 The User may submit contributions to the Author for inclusion in the Mod.  
-The User grants the Author all rights to any contribution.  
 The User renounces all rights to their contribution except as specified under this license.  
 
 The Author may grant a User the status of Contributor or Author at their own discretion.  
 
-7. Right to derive
+6. Right to derive
 --------
 
 The User may create Derivative(s) based on the Mod.  
@@ -93,21 +90,21 @@ A Derivative must contain changes which a reasonably informed person would consi
 The User may distribute a Derivative if the following conditions are met:
  - The Derivative does not generate revenue.
  - The Derivative provides credit to the Author.
- - The Derivative complies with the Mod license.
+ - The Derivative, as a whole, is licensed under this license for anyone who comes into possession of a copy.
+ - The User provides means to obtain the Derivative's source code at no charge.
 
-8. Right to distribute addons
+7. Right to distribute addons
 --------
 
 The User may develop non-Derivative Addons.  
 An Addon may include the Mod API without being considered a Derivative.  
 The Addon may be distributed under a different license.  
 
-9. Modpack rights
+8. Modpack rights
 --------
 
 The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work.  
 The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.  
 
-Modpacks may not be used to generate revenue unless specifically granted this right by the Author.  
-
-Modpacks may be made and distributed by the Modpack Creator through any distribution channel they choose.  
+The distribution of this Mod as part of a modpack is subject to section 4. Notwithstanding, modpacks containing this Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
+Modpacks containing this Mod may not be used to generate revenue unless specifically granted this right by the Author.  
