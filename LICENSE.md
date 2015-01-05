@@ -61,8 +61,8 @@ The User may not limit access to the Mod in any way, except as provided by the G
 4. Right to examine
 --------
 
-The User may decompile compiled binaries and examine the resulting source code.  
-The User may examine the source code as it exists in public repositories.
+The User may decompile compiled binaries of the Mod.  
+The User may examine the Mod's source code.
 
 5. Right to distribute
 --------
