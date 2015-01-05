@@ -12,13 +12,13 @@ Version 2.0.2
 
 **User**: Anyone who that interacts with Minecraft or the Mod in any way.
 
-**Dependency**: Software required for the mod to execute, compile, or otherwise "work" correctly.
+**Dependency**: Software required for the Mod to execute, compile, or otherwise "work" correctly.
 
 **API**: Software intermediary for interaction with the Mod.
 
-**Derived Code**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
+**Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
-**Addon**: Software that extends on this mod, but is not a derivative.
+**Addon**: Software that extends on the Mod, but is not a derivative.
 
 **Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
@@ -45,11 +45,11 @@ This license is separate from the license of any Mod it depends on and does not 
 --------
 
 The User accepts the following liability:
- - This Mod is provided 'as is' with no warranties, implied or otherwise.
+ - The Mod is provided 'as is' with no warranties, implied or otherwise.
  - The Author is not responsible for dragon, troll, pirate, or ninja attacks.
  - Slaying any and all mythological creatures is the sole responsibility of the User.
- - The Author takes no responsibility for any damages incurred from the use or misues of this Mod.
- - This Mod may alter fundamental parts of the Game.
+ - The Author takes no responsibility for any damages incurred from the use or misues of the Mod.
+ - The Mod may alter fundamental parts of the Game.
  - The User is liable for all damages resulting from the use or misuse of the Mod.
 
 3. Right to use
@@ -61,8 +61,8 @@ The User may not limit access to the Mod in any way, except as provided by the G
 4. Right to examine
 --------
 
-The User may decompile compiled binaries and examine the resulting source code.  
-The User may examine the source code as it exists in public repositories.
+The User may decompile compiled binaries of the Mod.  
+The User may examine the Mod's source code.
 
 5. Right to distribute
 --------
@@ -70,6 +70,7 @@ The User may examine the source code as it exists in public repositories.
 The Author reserves the right to distribute the Mod.  
 The Author may designate a person or organization as a Distributor.  
 A Distributor is granted the right to distribute the Mod.  
+The Author may require that a Distributor provides a direct link to the Codebase.  
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
@@ -108,6 +109,6 @@ The Addon may be distributed under a different license.
 The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work.  
 The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.  
 
-Modpacks may not be used to generate revenue unless specifically granted this right by the Author.  
+Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
 
-Modpacks may be made and distributed by the Modpack Creator through any distribution channel they choose.  
+Modpacks containing the Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
