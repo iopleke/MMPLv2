@@ -16,7 +16,7 @@ Version 2.0.2
 
 **API**: Software intermediary for interaction with the Mod.
 
-**Derived Code**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
+**Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
 **Addon**: Software that extends on this mod, but is not a derivative.
 
