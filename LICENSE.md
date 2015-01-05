@@ -79,7 +79,6 @@ The Author may revoke distribution rights from any Distributor.
 The User may "fork" the Codebase.  
 The User may compile the Codebase.  
 The User may submit contributions to the Author for inclusion in the Mod.  
-The User grants the Author all rights to any contribution.  
 The User renounces all rights to their contribution except as specified under this license.  
 
 The Author may grant a User the status of Contributor or Author at their own discretion.  
