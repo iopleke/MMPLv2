@@ -12,13 +12,13 @@ Version 2.0.2
 
 **User**: Anyone who that interacts with Minecraft or the Mod in any way.
 
-**Dependency**: Software required for the mod to execute, compile, or otherwise "work" correctly.
+**Dependency**: Software required for the Mod to execute, compile, or otherwise "work" correctly.
 
 **API**: Software intermediary for interaction with the Mod.
 
 **Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
-**Addon**: Software that extends on this mod, but is not a derivative.
+**Addon**: Software that extends on the Mod, but is not a derivative.
 
 **Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
@@ -45,11 +45,11 @@ This license is separate from the license of any Mod it depends on and does not 
 --------
 
 The User accepts the following liability:
- - This Mod is provided 'as is' with no warranties, implied or otherwise.
+ - The Mod is provided 'as is' with no warranties, implied or otherwise.
  - The Author is not responsible for dragon, troll, pirate, or ninja attacks.
  - Slaying any and all mythological creatures is the sole responsibility of the User.
- - The Author takes no responsibility for any damages incurred from the use or misues of this Mod.
- - This Mod may alter fundamental parts of the Game.
+ - The Author takes no responsibility for any damages incurred from the use or misues of the Mod.
+ - The Mod may alter fundamental parts of the Game.
  - The User is liable for all damages resulting from the use or misuse of the Mod.
 
 3. Right to use
