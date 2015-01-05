@@ -58,13 +58,10 @@ The User accepts the following liability:
 The User is allowed to install the Mod and play without restriction.  
 The User may not limit access to the Mod in any way, except as provided by the Game.  
 
-4. Right to examine
---------
+The User may decompile compiled binaries.  
+The User may examine this Mod's source code.
 
-The User may decompile compiled binaries and examine the resulting source code.  
-The User may examine the source code as it exists in public repositories.
-
-5. Right to distribute
+4. Right to distribute
 --------
 
 The Author reserves the right to distribute the Mod.  
@@ -74,7 +71,7 @@ When distributing binaries, a Distributor must provide means to obtain the Mod's
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
-6. Right to contribute
+5. Right to contribute
 --------
 
 The User may "fork" the Codebase.  
@@ -84,7 +81,7 @@ The User renounces all rights to their contribution except as specified under th
 
 The Author may grant a User the status of Contributor or Author at their own discretion.  
 
-7. Right to derive
+6. Right to derive
 --------
 
 The User may create Derivative(s) based on the Mod.  
@@ -96,14 +93,14 @@ The User may distribute a Derivative if the following conditions are met:
  - The Derivative, as a whole, is licensed under this license for anyone who comes into possession of a copy.
  - The User provides means to obtain the Derivative's source code at no charge.
 
-8. Right to distribute addons
+7. Right to distribute addons
 --------
 
 The User may develop non-Derivative Addons.  
 An Addon may include the Mod API without being considered a Derivative.  
 The Addon may be distributed under a different license.  
 
-9. Modpack rights
+8. Modpack rights
 --------
 
 The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work.  
