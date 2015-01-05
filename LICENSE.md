@@ -16,7 +16,7 @@ Version 2.0.2
 
 **API**: Software intermediary for interaction with the Mod.
 
-**Derived Code**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
+**Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
 **Addon**: Software that extends on this mod, but is not a derivative.
 
@@ -92,7 +92,7 @@ A Derivative must contain changes which a reasonably informed person would consi
 The User may distribute a Derivative if the following conditions are met:
  - The Derivative does not generate revenue.
  - The Derivative provides credit to the Author.
- - The Derivative complies with the Mod license.
+ - The Derivative, as a whole, is licensed under this license for anyone who comes into possession of a copy.
 
 8. Right to distribute addons
 --------
