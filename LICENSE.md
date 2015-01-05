@@ -106,6 +106,5 @@ The Addon may be distributed under a different license.
 The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work.  
 The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.  
 
-Modpacks containing this Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
-Notwithstanding, the distribution of this Mod as part of a modpack is still subject to section 4.  
+The distribution of this Mod as part of a modpack is subject to section 4. Notwithstanding, modpacks containing this Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
 Modpacks containing this Mod may not be used to generate revenue unless specifically granted this right by the Author.  
