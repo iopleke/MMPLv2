@@ -112,3 +112,8 @@ The Author may not be held responsible for the incompetency or sadism of the Mod
 Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
 
 Modpacks containing the Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
+
+10. Author responsibilities
+--------
+
+The Author must make the Mod source publically available.
