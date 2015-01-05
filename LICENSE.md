@@ -93,6 +93,7 @@ The User may distribute a Derivative if the following conditions are met:
  - The Derivative does not generate revenue.
  - The Derivative provides credit to the Author.
  - The Derivative, as a whole, is licensed under this license for anyone who comes into possession of a copy.
+ - The User provides means to obtain the Derivative's source code at no charge.
 
 8. Right to distribute addons
 --------
