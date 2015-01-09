@@ -51,6 +51,7 @@ The User accepts the following liability:
  - The Author takes no responsibility for any damages incurred from the use or misues of the Mod.
  - The Mod may alter fundamental parts of the Game.
  - The User is liable for all damages resulting from the use or misuse of the Mod.
+ - The Author may not be held responsible for the incompetency or sadism of a Modpack Creator.
 
 3. Right to use
 --------
@@ -104,11 +105,10 @@ The User may develop non-Derivative Addons.
 An Addon may include the Mod API without being considered a Derivative.  
 The Addon may be distributed under a different license.  
 
-9. Modpack rights
+9. Right to create Modpack(s)
 --------
 
-The User acknowledges that a Modpack will make changes to the Mod, and the Mod or Game may not work.  
-The Author may not be held responsible for the incompetency or sadism of the Modpack Creator.  
+The User may create Modpack(s) which include the Mod.  
 
 Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
 
