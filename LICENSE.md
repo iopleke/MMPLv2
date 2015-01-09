@@ -74,6 +74,8 @@ The Author may require that a Distributor provides a direct link to the Codebase
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
+
+
 6. Right to contribute
 --------
 
@@ -83,8 +85,6 @@ The User may submit contributions to the Author for inclusion in the Mod.
 The User grants the Author all rights to any contribution.  
 The User renounces all rights to their contribution except as specified under this license.  
 The User retains the right to re-use code they've written.  
-
-The Author may grant a User the status of Contributor or Author at their own discretion.  
 
 7. Right to derive
 --------
@@ -117,4 +117,12 @@ Modpacks containing the Mod may be made and distributed by the Modpack Creator t
 10. Author responsibilities
 --------
 
-The Author must make the Mod source publically available.
+The Author must make the Mod source publically available.  
+
+
+11. Author rights
+--------
+
+The Author may grant a User the status of Contributor or Author.  
+The Author retains the right to the Mod name.  
+The Author may change the Mod license, but cannot do so retroactively.  
