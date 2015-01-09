@@ -82,6 +82,7 @@ The User may compile the Codebase.
 The User may submit contributions to the Author for inclusion in the Mod.  
 The User grants the Author all rights to any contribution.  
 The User renounces all rights to their contribution except as specified under this license.  
+The User retains the right to re-use code they've written.  
 
 The Author may grant a User the status of Contributor or Author at their own discretion.  
 
