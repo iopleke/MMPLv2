@@ -86,6 +86,7 @@ The User may submit contributions to the Author for inclusion in the Mod.
 The User grants the Author all rights to any contribution.  
 The User renounces all rights to their contribution except as specified under this license.  
 The User retains the right to re-use code they've written.  
+The Author may specify a Contributor License Agreement allowing a Contributor to retain some or all rights.  
 
 7. Right to derive
 --------
