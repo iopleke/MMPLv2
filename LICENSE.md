@@ -118,7 +118,6 @@ Modpacks containing the Mod may be made and distributed by the Modpack Creator t
 
 The Author must make the Mod source publically available.  
 
-
 11. Author rights
 --------
 
