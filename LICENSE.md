@@ -119,7 +119,7 @@ The right to distribute a Modpack that generates revenue must be granted in a se
 10. Author responsibilities
 --------
 
-The Author must make the Mod source publically available.  
+The Author must make the Mod source freely available.  
 
 11. Author rights
 --------
