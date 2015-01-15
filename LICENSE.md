@@ -97,12 +97,13 @@ The User may create and distribute a Derivative of the Mod if all of the followi
  - The Derivative must be distributed under this same license, or any later version.
 The right to distribute a Derivative that generates revenue must be granted in a separate license which must be explicitly obtained from the Author.
 
-8. Right to distribute addons
+8. Right to create and distribute Addons
 --------
 
-The User may develop non-Derivative Addons.  
-An Addon may include the Mod API without being considered a Derivative.  
-The Addon may be distributed under a different license.  
+The User may create and distribute an Addon to the Mod without restriction.  
+In addition:
+ - The Addon may include the Mod API without being considered a Derivative.  
+ - The Addon may be distributed under a different license.  
 
 9. Right to create Modpack(s)
 --------
