@@ -105,14 +105,16 @@ In addition:
  - The Addon may include the Mod API without being considered a Derivative.  
  - The Addon may be distributed under a different license.  
 
-9. Right to create Modpack(s)
+9. Right to create and distribute Modpacks
 --------
 
-The User may create Modpack(s) which include the Mod.  
-
-Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
-
-Modpacks containing the Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
+The User may create and distribute a Modpack that contains the Mod through any distribution channel provided the following conditions are met:
+ - The Modpack must not generate revenue.
+ - Any call to download or otherwise aquire the Modpack must be accompanied by a notice stating:
+ -- The Modpack contains the Mod.
+ -- The Mod was created by the Author.
+ -- The URL of the Author's website, if such a website exists.
+The right to distribute a Modpack that generates revenue must be granted in a separate license which must be explicitly obtained from the Author.
 
 10. Author responsibilities
 --------
