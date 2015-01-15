@@ -67,15 +67,13 @@ The User is allowed to install the Mod and play it provided the following condit
 The User may decompile compiled binaries of the Mod.  
 The User may examine the Mod's source code.
 
-5. Right to distribute
+5. No right to distribute
 --------
 
-The Author reserves the right to distribute the Mod.  
-The Author may designate a person or organization as a Distributor.  
-A Distributor is granted the right to distribute the Mod.  
-The Author may require that a Distributor provides a direct link to the Codebase.  
-The User may not distribute the Mod without being granted distribution rights from the Author.  
-The Author may revoke distribution rights from any Distributor.  
+The Author reserves the right to transmit verbatim copies of ("Distribute") the Mod.  
+Rights to distribute the Mod must be granted in a separate license which must be explicitly obtained from the Author.
+
+If a user wishes others to aquire the mod, the user may provide a link to the Author's website. This doesn't need to be granted as a right. We're just letting you know the acceptable way your friends may download the Mod.
 
 6. Right to contribute
 --------
