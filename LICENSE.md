@@ -16,23 +16,23 @@ Version 2.0.2
 
 **Dependency**: Software required for the Mod to execute, compile, or otherwise "work" correctly.
 
-**API**: Software intermediary for interaction with the Mod.
+**API**: Software which is part of the Mod that allows other software to interact with the Mod.
 
-**Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
+**Derivative**: Software which includes at least some portion of the Mod other than the API.
 
-**Addon**: Software that extends on the Mod, but is not a derivative.
+**Addon**: Software that uses the API to interact with the Mod, but is not a derivative.
 
 **Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
 **Modpack Creator**: An individual who creates modpacks.
 
-**Author(s)**: Original Programmer or programmers responsible for writing the Mod.
+**Author(s)**: Original Programmer or programmers that created the Mod.
 
-**Contributor**: Programmer or programmers who contribute code to the Mod, but are not the Author.
+**Contributor**: A User who contributes code or other materials to the Mod, but is not an Author.
 
 **Codebase**: The Mod source code, complete with source history and Contributor records.
 
-**Distributor**: Anyone who distributes the compiled mod.
+**Distributor**: Anyone who transmits verbatim copies the Mod.
 
 1. Scope
 --------
