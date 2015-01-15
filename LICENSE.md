@@ -58,8 +58,8 @@ The User accepts the following liability:
 3. Right to use
 --------
 
-The User is allowed to install the Mod and play without restriction.  
-The User may not limit access to the Mod in any way, except as provided by the Game.  
+The User is allowed to install the Mod and play it provided the following conditions are met:
+ - If the User provides the Mod for others to play (for example, on a multiplayer Game server) the user may not limit other users' access to the Mod in any way, except as provided by the Game.  
 
 4. Right to examine
 --------
