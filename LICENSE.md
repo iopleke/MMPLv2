@@ -78,13 +78,13 @@ If a user wishes others to aquire the mod, the user may provide a link to the Au
 6. Right to contribute
 --------
 
-The User may "fork" the Codebase.  
+The User may copy ("fork") the Codebase.  
 The User may compile the Codebase.  
-The User may submit contributions to the Author for inclusion in the Mod.  
-The User grants the Author all rights to any contribution.  
-The User renounces all rights to their contribution except as specified under this license.  
-The User retains the right to re-use code they've written.  
-The Author may specify a Contributor License Agreement allowing a Contributor to retain some or all rights.  
+The User may submit source code or other materials (a Contribution) to the Author to be considered for inclusion in the Mod.  
+Unless specified by a seperate Contributor License Agreement, the Contributor agrees to the following terms.  
+If the contribution is accepted by the Author:
+ - Full copyright of the contribution is assigned to the Author.
+ - The author grants the Contributor a license to use, modify, and distribute the contribution.
 
 7. Right to derive
 --------
