@@ -86,16 +86,16 @@ If the contribution is accepted by the Author:
  - Full copyright of the contribution is assigned to the Author.
  - The author grants the Contributor a license to use, modify, and distribute the contribution.
 
-7. Right to derive
+7. Right to create and distribute Derivatives
 --------
 
-The User may create Derivative(s) based on the Mod.  
-A Derivative must contain changes which a reasonably informed person would consider significant.  
-
-The User may distribute a Derivative if the following conditions are met:
- - The Derivative does not generate revenue.
- - The Derivative provides credit to the Author.
- - The Derivative complies with the Mod license.
+The User may create and distribute a Derivative of the Mod if all of the following conditions are met:
+ - The Derivative must contain changes which a reasonably informed person would consider significant.  
+ - The Derivative must carry a prominent notice that it is an altered version the Mod.
+ - The Derivative must not generate revenue.
+ - The Derivative must attribute the Author.
+ - The Derivative must be distributed under this same license, or any later version.
+The right to distribute a Derivative that generates revenue must be granted in a separate license which must be explicitly obtained from the Author.
 
 8. Right to distribute addons
 --------
