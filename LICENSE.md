@@ -16,23 +16,23 @@ Version 2.0.2
 
 **Dependency**: Software required for the Mod to execute, compile, or otherwise "work" correctly.
 
-**API**: Software intermediary for interaction with the Mod.
+**API**: Software which is part of the Mod that allows other software to interact with the Mod.
 
-**Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
+**Derivative**: Software which includes at least some portion of the Mod other than the API.
 
-**Addon**: Software that extends on the Mod, but is not a derivative.
+**Addon**: Software that uses the API to interact with the Mod, but is not a derivative.
 
 **Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
 **Modpack Creator**: An individual who creates modpacks.
 
-**Author(s)**: Original Programmer or programmers responsible for writing the Mod.
+**Author(s)**: Original Programmer or programmers that created the Mod.
 
-**Contributor**: Programmer or programmers who contribute code to the Mod, but are not the Author.
+**Contributor**: A User who contributes code or other materials to the Mod, but is not an Author.
 
 **Codebase**: The Mod source code, complete with source history and Contributor records.
 
-**Distributor**: Anyone who distributes the compiled mod.
+**Distributor**: Anyone who transmits verbatim copies the Mod.
 
 1. Scope
 --------
@@ -58,8 +58,8 @@ The User accepts the following liability:
 3. Right to use
 --------
 
-The User is allowed to install the Mod and play without restriction.  
-The User may not limit access to the Mod in any way, except as provided by the Game.  
+The User is allowed to install the Mod and play it provided the following conditions are met:
+ - If the User provides the Mod for others to play (for example, on a multiplayer Game server) the user may not limit other users' access to the Mod in any way, except as provided by the Game.  
 
 4. Right to examine
 --------
@@ -67,58 +67,59 @@ The User may not limit access to the Mod in any way, except as provided by the G
 The User may decompile compiled binaries of the Mod.  
 The User may examine the Mod's source code.
 
-5. Right to distribute
+5. No right to distribute
 --------
 
-The Author reserves the right to distribute the Mod.  
-The Author may designate a person or organization as a Distributor.  
-A Distributor is granted the right to distribute the Mod.  
-The Author may require that a Distributor provides a direct link to the Codebase.  
-The User may not distribute the Mod without being granted distribution rights from the Author.  
-The Author may revoke distribution rights from any Distributor.  
+The Author reserves the right to transmit verbatim copies of ("Distribute") the Mod.  
+Rights to distribute the Mod must be granted in a separate license which must be explicitly obtained from the Author.
+
+If a user wishes others to aquire the mod, the user may provide a link to the Author's website. This doesn't need to be granted as a right. We're just letting you know the acceptable way your friends may download the Mod.
 
 6. Right to contribute
 --------
 
-The User may "fork" the Codebase.  
+The User may copy ("fork") the Codebase.  
 The User may compile the Codebase.  
-The User may submit contributions to the Author for inclusion in the Mod.  
-The User grants the Author all rights to any contribution.  
-The User renounces all rights to their contribution except as specified under this license.  
-The User retains the right to re-use code they've written.  
-The Author may specify a Contributor License Agreement allowing a Contributor to retain some or all rights.  
+The User may submit source code or other materials (a Contribution) to the Author to be considered for inclusion in the Mod.  
+Unless specified by a seperate Contributor License Agreement, the Contributor agrees to the following terms.  
+If the contribution is accepted by the Author:
+ - Full copyright of the contribution is assigned to the Author.
+ - The author grants the Contributor a license to use, modify, and distribute the contribution.
 
-7. Right to derive
+7. Right to create and distribute Derivatives
 --------
 
-The User may create Derivative(s) based on the Mod.  
-A Derivative must contain changes which a reasonably informed person would consider significant.  
+The User may create and distribute a Derivative of the Mod if all of the following conditions are met:
+ - The Derivative must contain changes which a reasonably informed person would consider significant.  
+ - The Derivative must carry a prominent notice that it is an altered version the Mod.
+ - The Derivative must not generate revenue.
+ - The Derivative must attribute the Author.
+ - The Derivative must be distributed under this same license, or any later version.
+The right to distribute a Derivative that generates revenue must be granted in a separate license which must be explicitly obtained from the Author.
 
-The User may distribute a Derivative if the following conditions are met:
- - The Derivative does not generate revenue.
- - The Derivative provides credit to the Author.
- - The Derivative complies with the Mod license.
-
-8. Right to distribute addons
+8. Right to create and distribute Addons
 --------
 
-The User may develop non-Derivative Addons.  
-An Addon may include the Mod API without being considered a Derivative.  
-The Addon may be distributed under a different license.  
+The User may create and distribute an Addon to the Mod without restriction.  
+In addition:
+ - The Addon may include the Mod API without being considered a Derivative.  
+ - The Addon may be distributed under a different license.  
 
-9. Right to create Modpack(s)
+9. Right to create and distribute Modpacks
 --------
 
-The User may create Modpack(s) which include the Mod.  
-
-Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
-
-Modpacks containing the Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
+The User may create and distribute a Modpack that contains the Mod through any distribution channel provided the following conditions are met:
+ - The Modpack must not generate revenue.
+ - Any call to download or otherwise aquire the Modpack must be accompanied by a notice stating:
+   - The Modpack contains the Mod.
+   - The Mod was created by the Author.
+   - The URL of the Author's website, if such a website exists.
+The right to distribute a Modpack that generates revenue must be granted in a separate license which must be explicitly obtained from the Author.
 
 10. Author responsibilities
 --------
 
-The Author must make the Mod source publically available.  
+The Author must make the Mod source freely available.  
 
 11. Author rights
 --------
