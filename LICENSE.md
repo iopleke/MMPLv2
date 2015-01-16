@@ -118,7 +118,7 @@ Modpacks containing the Mod may be made and distributed by the Modpack Creator t
 10. Author responsibilities
 --------
 
-The Author must make the Mod source publically available.  
+The Author must make the Mod source freely and publically available.  
 
 11. Author rights
 --------
