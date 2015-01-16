@@ -20,7 +20,7 @@ Version 2.0.2
 
 **Derivative**: Software which includes any portion of the Mod other than the API, with modifications, additions, or subtractions.
 
-**Addon**: Software that extends on the Mod, but is not a derivative.
+**Addon**: Software that extends the Mod, but is not a derivative.
 
 **Modpack**: A collection of mods and configuration files pre-tested to work when installed together.
 
