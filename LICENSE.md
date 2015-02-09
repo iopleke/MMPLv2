@@ -39,7 +39,7 @@ Version 2.0.2
 
 The present license is granted to any User of the Mod.
 
-Should the Mod be for Minecraft, as a prerequisite, the User is expected to comply with the Mojang EULA as it exists at the time the Mod is distributed.
+Should the Mod be for Minecraft, as a prerequisite, the User is expected to comply with the Mojang EULA as it exists at the time the Mod is initially distributed.
 
 This license is separate from the license of any Mod it depends on and does not invalidate any license requirement of the dependency.
 
