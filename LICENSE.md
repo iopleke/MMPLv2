@@ -75,7 +75,6 @@ The Author may require that a Distributor provides a direct link to the Codebase
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
-
 6. Right to contribute
 --------
 
