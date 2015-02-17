@@ -77,6 +77,7 @@ The Author may require that a Distributor provides a direct link to the Codebase
 The User may not distribute the Mod without being granted distribution rights from the Author.  
 The Author may revoke distribution rights from any Distributor.  
 
+
 6. Right to contribute
 --------
 
@@ -110,10 +111,9 @@ The Addon may be distributed under a different license.
 --------
 
 The User may create Modpack(s) which include the Mod.  
+A Modpack Creator is granted the right to distribute the Mod as part of a Modpack.  
 
 Modpacks containing the Mod may not be used to generate revenue unless specifically granted this right by the Author.  
-
-Modpacks containing the Mod may be made and distributed by the Modpack Creator through any distribution channel they choose.  
 
 10. Author responsibilities
 --------
