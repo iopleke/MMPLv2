@@ -50,7 +50,7 @@ The User accepts the following liability:
  - Slaying any and all mythological creatures is the sole responsibility of the User.
  - The Author takes no responsibility for any damages incurred from the use or misues of the Mod.
  - The Mod may alter fundamental parts of the Game.
- - The User is liable for all damages resulting from the use or misuse of the Mod.
+ - The User is liable for any and all damages resulting from the use or misuse of the Mod.
  - The Author may not be held responsible for the incompetency or sadism of a Modpack Creator.
 
 3. Right to use
@@ -115,7 +115,7 @@ Modpacks containing the Mod may not be used to generate revenue unless specifica
 10. Author responsibilities
 --------
 
-The Author must make the Mod source freely and publically available.  
+The Author must make the Mod source freely and publicly available.  
 
 11. Author rights
 --------
