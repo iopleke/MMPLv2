@@ -1,7 +1,7 @@
 Minecraft Mod Public License
 ============================
 
-Version 2.0.2
+Version 2.0.3
 
 0. Definitions
 --------------
@@ -57,7 +57,7 @@ The User accepts the following liability:
 --------
 
 The User is allowed to install the Mod and play without restriction.  
-The User may not limit access to the Mod in any way, except as provided by the Game.  
+The User may not limit access to the Mod in any way, except as provided by the Game. 
 
 4. Right to examine
 --------
@@ -122,4 +122,5 @@ The Author must make the Mod source freely and publicly available.
 
 The Author may grant a User the status of Contributor or Author.  
 The Author retains the right to the Mod name.  
+<sub><sup>The User grants the Author all rights to their immortal soul.</sup></sub>  
 The Author may change the Mod license, but cannot do so retroactively.  
