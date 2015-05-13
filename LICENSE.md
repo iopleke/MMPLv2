@@ -122,5 +122,4 @@ The Author must make the Mod source freely and publicly available.
 
 The Author may grant a User the status of Contributor or Author.  
 The Author retains the right to the Mod name.  
-<sub><sup>The User grants the Author all rights to their immortal soul.</sup></sub>  
 The Author may change the Mod license, but cannot do so retroactively.  
