@@ -59,7 +59,7 @@ The User accepts the following liability:
 --------
 
 The User is allowed to install the Mod and play without restriction.  
-The User may not limit access to the Mod in any way, except as provided by the Game. 
+The User may not limit access to the Mod in any way, except as provided by the Game.  
 
 4. Right to examine
 --------
