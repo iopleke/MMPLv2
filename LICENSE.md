@@ -26,7 +26,7 @@ Version 2.0.3
 
 **Modpack Creator**: An individual who creates modpacks.
 
-**Author(s)**: Original Programmer or programmers responsible for writing the Mod.
+**Author(s)**: Original programmer or programmers responsible for writing the Mod.
 
 **Contributor**: Programmer or programmers who contribute code to the Mod, but are not the Author.
 
