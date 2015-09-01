@@ -50,7 +50,7 @@ The User accepts the following liability:
  - The Mod is provided 'as is' with no warranties, implied or otherwise.
  - The Author is not responsible for dragon, troll, pirate, or ninja attacks.
  - Slaying any and all mythological creatures is the sole responsibility of the User.
- - The Author takes no responsibility for any damages incurred from the use or misues of the Mod.
+ - The Author takes no responsibility for any damages incurred from the use or misuse of the Mod.
  - The Mod may alter fundamental parts of the Game.
  - The User is liable for any and all damages resulting from the use or misuse of the Mod.
  - The Author may not be held responsible for the incompetency or sadism of a Modpack Creator.
