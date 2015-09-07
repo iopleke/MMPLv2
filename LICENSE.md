@@ -6,15 +6,19 @@ Version 2.0.3
 0. Definitions
 --------------
 
+**Source Code**: The preferred form of the work for making modifications to it.
+
+**Object code**: Any non-source form of a work. 
+
 **Game**: Computer software which provides diversion or amusement. Often a form of play. 
 
-**Mod**: Software which modifies the Game, in any form (source, compiled binary, etc).
+**Mod**: Software which modifies the Game, in any form (source code, object code, etc).
 
 **Asset**: Graphic, audio, data file, or other medium used by the Mod.
 
 **User**: Anyone who that interacts with the Game or the Mod in any way.
 
-**Dependency**: Software required for the Mod to execute, compile, or otherwise "work" correctly.
+**Dependency**: Software required for the Mod to execute, compile, or otherwise operate correctly.
 
 **API**: Software intermediary for interaction with the Mod.
 
@@ -26,13 +30,16 @@ Version 2.0.3
 
 **Modpack Creator**: An individual who creates modpacks.
 
-**Author(s)**: Original programmer or programmers responsible for writing the Mod.
+**Author(s)**: Original programmer(s), texturer(s), and contributors responsible for creating, in part or in whole, the Mod.
 
 **Contributor**: Programmer or programmers who contribute code to the Mod, but are not the Author.
 
 **Codebase**: The Mod source code, complete with source history and Contributor records.
 
-**Distributor**: Anyone who distributes the compiled mod.
+**Distributor**: Anyone who distributes the mod, in source or object form.
+
+**Fork**: Copy and modify the source code of any Mod or other Software associated with the Mod
+
 
 1. Scope
 --------
@@ -47,12 +54,11 @@ This license is separate from the license of any Mod it depends on and does not 
 --------
 
 The User accepts the following liability:
- - The Mod is provided 'as is' with no warranties, implied or otherwise.
- - The Author is not responsible for dragon, troll, pirate, or ninja attacks.
+ - The Mod is provided as-is with no warranties, implied or otherwise.
  - Slaying any and all mythological creatures is the sole responsibility of the User.
- - The Author takes no responsibility for any damages incurred from the use or misuse of the Mod.
+ - The Author takes no responsibility for any damages incurred from the use or misuse of the Mod, direct or otherwise.
  - The Mod may alter fundamental parts of the Game.
- - The User is liable for any and all damages resulting from the use or misuse of the Mod.
+ - The User is liable for any and all damages resulting from the use or misuse of the Mod, direct or otherwise.
  - The Author may not be held responsible for the incompetency or sadism of a Modpack Creator.
 
 3. Right to use
@@ -64,7 +70,7 @@ The User may not limit access to the Mod in any way, except as provided by the G
 4. Right to examine
 --------
 
-The User may decompile compiled binaries of the Mod.  
+The User may decompile or otherwise translate the object code of the Mod.  
 The User may examine the Mod's source code.
 
 5. Right to distribute
@@ -73,19 +79,19 @@ The User may examine the Mod's source code.
 The Author reserves the right to distribute the Mod.  
 The Author may designate a person or organization as a Distributor.  
 A Distributor is granted the right to distribute the Mod.  
-The Author may require that a Distributor provides a direct link to the Codebase.  
+The Author may require that a Distributor provides a direct link to the Mod.  
 The User may not distribute the Mod without being granted distribution rights from the Author.  
-The Author may revoke distribution rights from any Distributor.  
+The Author may revoke distribution rights from any Distributor without prior notice.  
 
 6. Right to contribute
 --------
 
-The User may "fork" the Codebase.  
+The User may fork the Mod or any Software associated.  
 The User may compile the Codebase.  
 The User may submit contributions to the Author for inclusion in the Mod.  
 The User grants the Author all rights to any contribution.  
-The User renounces all rights to their contribution except as specified under this license.  
-The User retains the right to re-use code they've written.  
+The User renounces all rights to their contribution except as specified otherwise by the Author.  
+The User retains the right to use any contrbutions they've made.  
 The Author may specify a Contributor License Agreement allowing a Contributor to retain some or all rights.  
 
 7. Right to derive
@@ -131,5 +137,5 @@ The Author must make the Mod source freely and publicly available.
 --------
 
 The Author may grant a User the status of Contributor or Author.  
-The Author retains the right to the Mod name.  
+The Author retains the right to the Mod's name, Assets, and all other .  
 The Author may change the Mod license, but cannot do so retroactively.  
