@@ -1,6 +1,9 @@
-var client = new XMLHttpRequest();
-client.open('GET', 'content/TEMPLATE.md');
-client.onreadystatechange = function() {
-  document.getElementById("content").innerHTML = client.responseText.replace(/\r?\n/g,'<br/>');
+var template = new XMLHttpRequest();
+template.open('GET', 'content/TEMPLATE.md');
+
+template.onreadystatechange = function() {
+  var placeholder = template.responseText.replace(/\r?\n/g,'<br/>');
+  var text = placeholder.replace("de063c99357e6675f1ba05b33635e044", "Title goes here");
+  document.getElementById("content").innerHTML = text;
 }
-client.send();
+template.send();
