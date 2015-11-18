@@ -17,6 +17,13 @@ This license intends to provide an easy to understand, relatively permissive lic
 
 This license is intended as a non-commercial, visible source, legally enforcable tool that encourages the author's creative process, allows the end user to have fun, and generally makes the modding community a better place.
 
+This license is **not** intended to:
+* Replace MIT, MMPL, BSD, or any other license.
+* Start arguments about terminology or definitions.
+
+All contributions, issue reports, and discussions via this Github project repo must be done in a civil, constructive manner. 
+
+Seriously, be kind, considerate, and constructive, or GTFO.
 
 License for this license
 =========
